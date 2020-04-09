@@ -1,4 +1,4 @@
-# AMBLAR
+# AMBLAR  [![Build Status](https://travis-ci.com/mgautam98/amblar.svg?branch=master)](https://travis-ci.com/mgautam98/amblar)
 
 <p align="center">
   <img src="./AMBLAR.ico">
