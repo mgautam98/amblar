@@ -18,8 +18,6 @@ services:
   backend:
     build: backend
     restart: always
-    logging:
-      driver: none
     secrets:
       - db-password
     ports:
